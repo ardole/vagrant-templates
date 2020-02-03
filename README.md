@@ -18,3 +18,7 @@ On the host side:
 ```
 vagrant plugin install vagrant-vbguest
 ```
+
+## Cluster
+
+- [Cluster provisioning from JSON](provisioning/Vagrantfile_cluster)
